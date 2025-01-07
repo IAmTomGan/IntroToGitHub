@@ -1,3 +1,4 @@
 # IntroToGitHub
 A demo How to use GitHub
-Hi
+Hello world
+
